@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.itbulls.pichal","c":"HelloWorldCourse","l":"HelloWorldCourse()","u":"%3Cinit%3E()"},{"p":"com.itbulls.pichal","c":"HelloWorldCourse","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();

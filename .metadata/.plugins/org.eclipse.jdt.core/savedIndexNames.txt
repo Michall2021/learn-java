@@ -1,0 +1,1 @@
+INDEX VERSION 1.132+/Users/michal/eclipse-workspaces/JavaCourse/Learn IT fundamentals/.metadata/.plugins/org.eclipse.jdt.core
