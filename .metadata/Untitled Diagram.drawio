@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-06T17:15:38.250Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" etag="FxZQwTo9OXRqtcdk4TGc" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-06T17:17:27.963Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" etag="R835NeY6M_sighOSlfXs" version="22.0.8" type="github">
   <diagram name="Page-1" id="KkWIEYQmKdYoJBlh3cc2">
     <mxGraphModel dx="1853" dy="612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -34,22 +34,22 @@
         <mxCell id="gSI3Hieu22vvykXPNDI_-11" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="1">
           <mxGeometry x="-80" y="880" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gSI3Hieu22vvykXPNDI_-12" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="1">
+        <mxCell id="gSI3Hieu22vvykXPNDI_-12" value="Browse product" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="1">
           <mxGeometry x="-415" y="840" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="gSI3Hieu22vvykXPNDI_-13" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="1">
+        <mxCell id="gSI3Hieu22vvykXPNDI_-13" value="Add to Cart&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="1">
           <mxGeometry x="-420" y="920" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="gSI3Hieu22vvykXPNDI_-14" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="1">
+        <mxCell id="gSI3Hieu22vvykXPNDI_-14" value="Remove from Cart" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="1">
           <mxGeometry x="-420" y="1000" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="gSI3Hieu22vvykXPNDI_-15" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="1">
+        <mxCell id="gSI3Hieu22vvykXPNDI_-15" value="View Cart" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="1">
           <mxGeometry x="-420" y="1090" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="gSI3Hieu22vvykXPNDI_-16" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="1">
+        <mxCell id="gSI3Hieu22vvykXPNDI_-16" value="Procede to Checkout" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="1">
           <mxGeometry x="-470" y="1169" width="110" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="gSI3Hieu22vvykXPNDI_-17" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="1">
+        <mxCell id="gSI3Hieu22vvykXPNDI_-17" value="Make payment" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="1">
           <mxGeometry x="-340" y="1169" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="gSI3Hieu22vvykXPNDI_-18" value="" style="endArrow=none;startArrow=none;html=1;rounded=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;startFill=0;endFill=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="_uxx1MJeF8HWBZhhg2wG-2" target="gSI3Hieu22vvykXPNDI_-14">
